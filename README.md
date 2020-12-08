@@ -1,2 +1,3 @@
 # mydotfiles
-Just my spot to drop dots
+Just a spot to drop my dots
+-ghouL
